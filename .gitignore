@@ -1,2 +1,6 @@
 data_target_tracking/
 *.zip
+
+.DS_Store
+
+__pycache__/
